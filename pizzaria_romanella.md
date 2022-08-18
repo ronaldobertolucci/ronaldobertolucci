@@ -1,6 +1,6 @@
 # Pizzaria Romanella
 Pizzaria Romanella foi o primeiro projeto de desenvolvimento web concluído por mim. O objetivo principal do projeto foi colocar em prática os conhecimentos adquiridos
-por mim durante o estágio.
+durante o estágio.
 
 ## Construído com 
 - Django
