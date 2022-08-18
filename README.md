@@ -3,7 +3,7 @@
 - 🔬 Além disso, estou aprimorando o front-end (me aventurando em React).
 
 ### 💼 Portfólio
-- Pizzaria Romanella
+- [Pizzaria Romanella](/pizzaria_romanella.md)
 - PoupeMais (em desenvolvimento)
 
 ### 🛠️ Skills
