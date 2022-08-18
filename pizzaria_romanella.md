@@ -8,17 +8,17 @@ por mim durante o estágio.
 - jQuery
 
 ## Site
-- Deployment: Heroku (free)
-- Sinta-se a vontade para criar uma conta e fazer o seu pedido. Entretanto, ele nunca será entregue rs.
-- Endereço: [romanella.herokuapp.com](https://romanella.herokuapp.com/)
+- Deployment: Heroku
+- Sinta-se a vontade para criar uma conta e fazer o seu pedido. Ele nunca será entregue rs.
+- Endereço [aqui](https://romanella.herokuapp.com/)
 
 ## Imagens
 <p align='center'>
-  <img src="/ronaldobertolucci/ronaldobertolucci/src/images/capa.jpg" alt="capa" style="max-width: 100%;">
+  <img src="/src/imagens/capa.jpg" alt="capa" style="max-width: 100%;">
 </p>
 <p align='center'>
-  <img src="/ronaldobertolucci/ronaldobertolucci/src/images/cardapio.jpg" alt="cardapio" style="max-width: 100%;">
+  <img src="/src/imagens/cardapio.jpg" alt="cardapio" style="max-width: 100%;">
 </p>
 <p align='center'>
-  <img src="/ronaldobertolucci/ronaldobertolucci/src/images/pedido.jpg" alt="pedido" style="max-width: 100%;">
+  <img src="/src/imagens/pedido.jpg" alt="pedido" style="max-width: 100%;">
 </p>
