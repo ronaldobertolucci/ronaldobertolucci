@@ -22,7 +22,7 @@ Python e JavaScript:
 1. A solução deveria ser desenvolvida em Python.
 2. A interface deveria ser criada em HTML.
 3. A solução deveria possibilitar o CRUD de uma comunicação de perda.
-4. Os dados deveriam ser salvos em um banco de dados: Posgres, MySQL, MongoDB ou Firebase.
+4. Os dados deveriam ser salvos em um banco de dados: Postgres, MySQL, MongoDB ou Firebase.
 5. A comunicação de perda deveria possuir:
     - Nome do produtor
     - email do produtor
@@ -37,6 +37,8 @@ menos de 10km com evento divergente.
 8. Deveria ser possível realizar a busca de comunicações por CPF do produtor.
 9. O projeto deveria ser disponibilizado em repositório público.
 10. O projeto deveria possuir um README explicando como utilizar o app.
+
+:white_check_mark: Todos os critérios acima foram cumpridos
 
 
 
