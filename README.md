@@ -1,5 +1,5 @@
 ### Olá, 👋 Meu nome é Ronaldo
-- 👨🏻‍💻 Atualmente, sou estagiário em desenvolvimento web.
+- :notebook: Atualmente, estou aprimorando o Front-end (aprendendo React)
 
 ### 💼 Portfólio
 - [Pizzaria Romanella](/pizzaria_romanella.md)
