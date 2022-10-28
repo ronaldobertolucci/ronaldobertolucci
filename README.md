@@ -1,5 +1,5 @@
 ### Olá, 👋 Meu nome é Ronaldo
-- :notebook: Atualmente, estou aprimorando o Front-end (aprendendo React)
+- :notebook: Atualmente, estou aprendendo Java, participando do Programa START by Capgemini
 
 ### 💼 Portfólio
 - [Pizzaria Romanella](/pizzaria_romanella.md)
