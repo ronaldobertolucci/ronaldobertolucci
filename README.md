@@ -1,5 +1,6 @@
 ### Olá, 👋 Meu nome é Ronaldo
-- :notebook: Atualmente, estou aprendendo Java, participando do Programa START by Capgemini
+- :notebook: Atualmente, estou aprendendo Java.
+- Também estou participando do Programa START da Capgemini.
 
 ### 💼 Portfólio
 - [Pizzaria Romanella](/pizzaria_romanella.md)
@@ -7,7 +8,7 @@
 - PoupeMais (em desenvolvimento)
 
 ### 🛠️ Skills
-- Linguagens: Python, HTML, CSS e JavaScript
+- Linguagens: Python, Java, HTML, CSS e JavaScript
 - Databases: PostgreSQL, SQLite3
 - DevOps: Docker, Heroku
 
@@ -23,6 +24,7 @@
 - [Using Python to Access Web Data](https://www.coursera.org/verify/QG9T7H54GTRF) @Coursera
 - [Responsive Web Design](https://www.freecodecamp.org/certification/ronaldo_bertolucci/responsive-web-design) @freeCodeCamp
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/ronaldo_bertolucci/javascript-algorithms-and-data-structures) @freeCodeCamp
+- Introdução ao Java - Santander Coders (ada)
 
 ### 📫 Como me encontrar:
 <a href="https://www.linkedin.com/in/ronaldo-bertolucci-junior/">
