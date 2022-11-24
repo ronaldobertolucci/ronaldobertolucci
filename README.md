@@ -1,11 +1,5 @@
 ### Olá, 👋 Meu nome é Ronaldo
-- :notebook: Atualmente, estou aprendendo Java.
-- Também estou participando do Programa START da Capgemini.
-
-### 💼 Portfólio
-- [Pizzaria Romanella](/pizzaria_romanella.md)
-- [Desafio Softfocus](/softfocus.md)
-- PoupeMais (em desenvolvimento)
+- :notebook: Atualmente, estou aprendendo C# e Angular.
 
 ### 🛠️ Skills
 - Linguagens: Python, Java, HTML, CSS e JavaScript
