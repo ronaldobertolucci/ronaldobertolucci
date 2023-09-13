@@ -1,5 +1,4 @@
 ### Olá, 👋 Meu nome é Ronaldo
-- :notebook: Atualmente, estou aprendendo C# e Angular.
 
 ### 🛠️ Skills
 - Linguagens: Python, Java, HTML, CSS e JavaScript
